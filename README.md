@@ -3,10 +3,10 @@
 <h1 align="center">Hi 👋, I'm Ajay Solanki</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=virendracarpenter&theme=onedark&column=4" alt="ajaysolanki"/> <br>
-<img src="https://github-readme-stats.vercel.app/api?username=virendracarpenter&theme=dark&show_icons=true" alt="stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=virendracarpenter&theme=dark"/> <br>
-<img src="https://komarev.com/ghpvc/?username=virendracarpenter" alt="ajaysolanki" />
+<img src="https://github-profile-trophy.vercel.app/?username=CIS-Ajay&theme=onedark&column=4" alt="ajaysolanki"/> <br>
+<img src="https://github-readme-stats.vercel.app/api?username=CIS-Ajay&theme=dark&show_icons=true" alt="stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CIS-Ajay&theme=dark"/> <br>
+<img src="https://komarev.com/ghpvc/?username=CIS-Ajay" alt="ajaysolanki" />
 </p>
 
 <img align="right" alt="Coding" width="400" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK_nquxN5WZhqk8zrtDBlJvF2cZobhqtiSNgDc4uAxq1gwJxmpwbAm7qc0jthNlxaPDRQ&usqp=CAU](https://i.giphy.com/p4NLw3I4U0idi.webp)">
