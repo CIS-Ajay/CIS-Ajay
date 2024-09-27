@@ -1,9 +1,9 @@
-[![MasterHead](https://www.google.com/imgres?q=animated%20JS%20technologies%20gif&imgurl=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2FD4D12AQHGG4J6b6OmyQ%2Farticle-cover_image-shrink_720_1280%2F0%2F1709674937953%3Fe%3D2147483647%26v%3Dbeta%26t%3DD46aQMTStnlCf7s6GPq67PFXzmWSTtPoQRtH60tacuo&imgrefurl=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fcto-use-case-4-senior-software-engineer-flave-boulouma-cto--9hojf&docid=cN66CoROQcQOXM&tbnid=sgHlahCx9OOyOM&vet=12ahUKEwiWn6nMmuOIAxW18DgGHRoXAhoQM3oECGoQAA..i&w=640&h=640&hcb=2&ved=2ahUKEwiWn6nMmuOIAxW18DgGHRoXAhoQM3oECGoQAA)]
+[![MasterHead](https://media.licdn.com/dms/image/D4D12AQHGG4J6b6OmyQ/article-cover_image-shrink_720_1280/0/1709674937953?e=2147483647&v=beta&t=D46aQMTStnlCf7s6GPq67PFXzmWSTtPoQRtH60tacuo)]
 <h1 align="center">Hi 👋, I'm Ajay Solanki</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?q=animated%20programmer%20gif&imgurl=https%3A%2F%2Fmedia3.giphy.com%2Fmedia%2FnGMnDqebzDcfm%2F200.gif%3Fcid%3D6c09b952nvquj6bo13f93zqfz4fkl7e85pb2qvzoavzs7y0c%26ep%3Dv1_gifs_search%26rid%3D200.gif%26ct%3Dg&imgrefurl=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammers-hackers-coding-geeks&docid=0bhW6SIf2Xx9MM&tbnid=hPKMcDHR1CbsdM&vet=12ahUKEwjGif-JmuOIAxVlzzgGHZ8wK2oQM3oECGwQAA..i&w=202&h=200&hcb=2&ved=2ahUKEwjGif-JmuOIAxVlzzgGHZ8wK2oQM3oECGwQAA">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cis-ajay&label=Profile%20views&color=0e75b6&style=flat" alt="cis-ajay" /> </p>
+<img align="right" alt="Coding" width="400" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK_nquxN5WZhqk8zrtDBlJvF2cZobhqtiSNgDc4uAxq1gwJxmpwbAm7qc0jthNlxaPDRQ&usqp=CAU](https://media.licdn.com/dms/image/D4D12AQHGG4J6b6OmyQ/article-cover_image-shrink_720_1280/0/1709674937953?e=2147483647&v=beta&t=D46aQMTStnlCf7s6GPq67PFXzmWSTtPoQRtH60tacuo)">
+ 
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=cis-ajay&label=Profile%20views&color=0e75b6&style=flat](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)" alt="cis-ajay" /> </p>
 
 - 🌱 I’m currently learning **ThreeJS**
 
