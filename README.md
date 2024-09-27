@@ -9,7 +9,7 @@
 <img src="https://komarev.com/ghpvc/?username=virendracarpenter" alt="ajaysolanki" />
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK_nquxN5WZhqk8zrtDBlJvF2cZobhqtiSNgDc4uAxq1gwJxmpwbAm7qc0jthNlxaPDRQ&usqp=CAU">
+<img align="right" alt="Coding" width="400" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK_nquxN5WZhqk8zrtDBlJvF2cZobhqtiSNgDc4uAxq1gwJxmpwbAm7qc0jthNlxaPDRQ&usqp=CAU](https://i.giphy.com/p4NLw3I4U0idi.webp)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cis-ajay&label=Profile%20views&color=0e75b6&style=flat" alt="cis-ajay" /> </p>
 
