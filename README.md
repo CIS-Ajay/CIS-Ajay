@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4D12AQHGG4J6b6OmyQ/article-cover_image-shrink_720_1280/0/1709674937953?e=2147483647&v=beta&t=D46aQMTStnlCf7s6GPq67PFXzmWSTtPoQRtH60tacuo)]
+[![MasterHead](https://globdig.com/wp-content/uploads/2024/07/globdig-blog-banner-01.png)]
 <h1 align="center">Hi 👋, I'm Ajay Solanki</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK_nquxN5WZhqk8zrtDBlJvF2cZobhqtiSNgDc4uAxq1gwJxmpwbAm7qc0jthNlxaPDRQ&usqp=CAU](https://media.licdn.com/dms/image/D4D12AQHGG4J6b6OmyQ/article-cover_image-shrink_720_1280/0/1709674937953?e=2147483647&v=beta&t=D46aQMTStnlCf7s6GPq67PFXzmWSTtPoQRtH60tacuo)">
